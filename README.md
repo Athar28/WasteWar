@@ -1,3 +1,3 @@
 # MSIB-WasteWar
  
-test
+Proyek ini merupakan hasil akhir dari kegiatan Studi Indepen saya di Infinite Learning
